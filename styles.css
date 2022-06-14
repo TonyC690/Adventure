@@ -1,0 +1,220 @@
+body{
+    background-color:#a5e2ff;
+    border: dashed #ffc0cb;
+    display:flex;
+    justify-content:center;
+}
+
+h1{
+    display:flex;
+    text-align:center;
+}
+
+h2{
+    display:flex;
+    justify-content:center;
+}
+
+h3{
+    display:flex;
+    justify-content:center;
+}
+
+.option{
+    display:flex;
+    justify-content:space-evenly;
+}
+
+.page2{
+    display:none;
+    justify-content:center;
+}
+
+.page3{
+    display:none;
+    justify-content:center;
+}
+
+.page3extra{
+  display:none;  
+}
+
+.page3extra-1{
+    display:none;
+}
+
+body{
+    display:flex;
+    justify-content:center;
+}
+
+.page4{
+    display:none;
+    text-align:center;
+}
+
+h1{
+    text-align:center;
+    justify-content:center;
+}
+
+.page5{
+    display:none;
+}
+
+.page6{
+    display:none;
+}
+
+.page7{
+    display:none;
+}
+
+.option1{
+    display:flex;
+    flex-flow:column wrap;
+}
+
+.page8{
+    display:none;
+}
+
+.page9{
+    display:none;
+}
+
+.page10{
+    display:none;
+}
+
+.page11{
+    display:none;
+}
+
+.page12{
+    display:none;
+}
+
+.page13{
+    display:none;
+}
+
+.page14{
+   display:none; 
+}
+
+.page15{
+    display:none;
+}
+
+.end{
+    display:none;
+}
+
+.storyline{
+    display:none;
+}
+
+.gameover1{
+    display:flex;
+    display:none;
+    flex-direction:column;
+    justify-content:center;
+}
+
+.gif1{
+   width:1500px;
+    height:900px;
+}
+
+.page4extra{
+    display:none;
+}
+
+.page5extra{
+    display:none;
+}
+
+.page6extra{
+    display:none;
+}
+
+.page7extra{
+    display:none;
+}
+
+.page8extra{
+    display:none;
+}
+
+.page9extra{
+    display:none;
+}
+
+.page10extra{
+    display:none;
+}
+
+.page11extra{
+    display:none;
+}
+
+.wip{
+    display:none;
+}
+
+.scared{
+    display:none;
+}
+
+.dont{
+    display:none;
+}
+
+.wip1{
+    display:none;
+}
+
+.wip2{
+    display:none;
+}
+
+.wip3{
+    display:none;
+}
+
+.wip4{
+    display:none;
+}
+
+.wip5{
+   display:none; 
+}
+
+.whytho{
+    display:none;
+}
+
+.blind{
+    display:none;
+}
+
+.lose1{
+    display:none;
+}
+
+.learn1{
+    display:none;
+}
+   
+.lose2{
+    display:none;
+}
+
+.death1{
+    display:none;
+}
+
+.death2{
+    display:none;
+}
